@@ -1,0 +1,8 @@
+SI,123456789012345684566546,56  ,767 ,757 ,5677
+SI,2                       ,GGDF,SFSD,GSGG,FDG 
+SI,3                       ,VXVX,CXV ,XCV ,CXF 
+NO,4                       ,FGDS,BFDB,CV  ,CBB 
+NO,5                       ,GGDF,SFSD,GSGG,FDGNO
+NO,85                      ,32  ,14  ,985 ,2356
+NO,33                      ,56  ,5423,8745,2145
+NO,2                       ,GGDF,SFSD,GSGG,FDG 
